@@ -1099,39 +1099,92 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 -----------------ARENA SPORT-------------------------------
+#EXTINF:-1 tvg-id="Arena Sport 1 HD.ba" tvg-logo="https://i.imgur.com/3lUvO5p.png" group-title="SPORTS", ARENA SPORT 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 
-#EXTINF:-1 tvg-id="Arena Premium 1.ba" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3TTFCPbUpG2zkLuooUngkrHfvGKrZHowBOw&usqp=CAU" group-title=">>>AS SPORTS<<<", Arena premium 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
-#EXTINF:-1 tvg-id="Arena Premium 2.ba" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPiUJzkZ1QPOeDDc4VY_DOYRF5-VpY2qFOcA&usqp=CAU" group-title=">>>AS SPORTS<<<", Arena premium 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
-#EXTINF:-1 tvg-id="Arena Premium 3.ba" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOcSj6a930_c3Rl2GLl9geONQ76LUsW2gC-UzGmnKh5zgAWhJwT63PWSM&s=10" group-title=">>>AS SPORTS<<<", Arena Premium 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
-#EXTINF:-1 tvg-id="Arena Sport 2.ba" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRYhbQT5RXm94DjeZEKUpNCYZumoSJI_ikPA&usqp=CAU" group-title=">>>AS SPORTS<<<", Arena sports 2
+#EXTINF:-1 tvg-id="Arena Sport 2.ba" tvg-logo="https://i.imgur.com/SQlsmmH.png" group-title="SPORTS", ARENA SPORT 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
-#EXTINF:-1 tvg-id="Arena Premium 2.ba" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIDZZhDSI3UqVzkFwgQCy53WtGaZPuAnXdWg&usqp=CAU" group-title=">>>AS SPORTS<<<", Arena Premium 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
-#EXTINF:-1 tvg-id="Arena Premium 1.ba" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVOYqm-9UX5p2z7oT0_JFRIIiD_NFWiipMIWkMvVzCq4V-4w-Wh_s_DTw&s=10" group-title=">>>AS SPORTS<<<", Arena Premium 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium1.mp
-#EXTINF:-1 tvg-id="Arena Sport 3.ba" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsSCyggHa_nr96Xdx8Kn5vL56adiaJ0dEytw&usqp=CAU" group-title=">>>AS SPORTS<<<", Arena Sports 3
+
+#EXTINF:-1 tvg-id="Arena Sport 3.ba" tvg-logo="https://i.imgur.com/4ObWfSy.png" group-title="SPORTS", ARENA SPORT 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
-#EXTINF:-1 tvg-id="Arena Sport 5.ba" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5WgxGWS6aassy6pMATXqKx-T4NtuBamZ8gls881TZ3rQ5W5OunWGljQ&s=10" group-title=">>>AS SPORTS<<<", Arena Sports 5
+
+#EXTINF:-1 tvg-id="Arena Sport 4.ba" tvg-logo="https://i.imgur.com/b8SGccn.png" group-title="SPORTS", ARENA SPORT 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
+
+#EXTINF:-1 tvg-id="Arena Sport 5.ba" tvg-logo="https://i.imgur.com/XdKPtEq.png" group-title="SPORTS", ARENA SPORT 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
+#EXTINF:-1 tvg-id="Arena Sport 6.ba" tvg-logo="https://i.imgur.com/J1IeD4A.png" group-title="SPORTS", ARENA SPORT 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
+
+#EXTINF:-1 tvg-id="Arena sport 1x2.ba" tvg-logo="https://i.imgur.com/5OewfNe.png" group-title="SPORTS", ARENA SPORT 1x2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
+
+#EXTINF:-1 tvg-id="Arena Premium 1.ba" tvg-logo="https://i.imgur.com/Y2XYrCY.png" group-title="SPORTS", ARENA SPORT PREMIUM 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
+
+#EXTINF:-1 tvg-id="Arena Premium 2.ba" tvg-logo="https://i.imgur.com/DvS8NqK.png" group-title="SPORTS", ARENA SPORT PREMIUM 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
+
+#EXTINF:-1 tvg-id="Arena Premium 3.ba" tvg-logo="https://i.imgur.com/ooWSTU4.png" group-title="SPORTS", ARENA SPORT PREMIUM 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+
+
+----------------------TNT SPORT------------------------
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dt2W2LG/tnt-01.png", tvg-id="ksport1hd" group-title="SPORTS", TNT Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1LCRhQY/tnt-02.png", tvg-id="ksport1hd" group-title="SPORTS", TNT Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JsLfQJP/tnt-03.png", tvg-id="ksport1hd" group-title="SPORTS", TNT Sports 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y01L3d4/tnt-04.png", tvg-id="ksport1hd" group-title="SPORTS", TNT Sports 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WttdCTS/tnt-05.png", tvg-id="ksport1hd" group-title="SPORTS", TNT SPORTS 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 
 
 
