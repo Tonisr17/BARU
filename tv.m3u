@@ -1,144 +1,90 @@
 +++++++++++++++++++++++++++++++LOKAL HD+++++++++++++++++++++++++++++
 
-#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" tvg-logo="https://i.ibb.co/0nVgFph/Untitled-3-01.png" group-title="LOKAL AUTO🇮🇩", ANTV
+ 
+ 
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" tvg-logo="https://i.ibb.co/0nVgFph/Untitled-3-01.png" group-title="LOKAL IN™", ANTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://i.ibb.co/JjycWTZ/Untitled-3-04.png" group-title="LOKAL AUTO🇮🇩", GTV
+#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://i.ibb.co/JjycWTZ/Untitled-3-04.png" group-title="LOKAL IN™", GTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveaneviadev.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/HTvm0xk/Untitled-3-05.png group-title="LOKAL AUTO🇮🇩",INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
-#EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://i.ibb.co/MhcJ8HV/Untitled-3-09.png" group-title="LOKAL AUTO🇮🇩", MNCTV
+#EXTINF:-1 tvg-id="Indosiar.id"  tvg-logo="https://i.ibb.co/HTvm0xk/Untitled-3-05.png" group-title="LOKAL IN™",Indosiar HD
+http://sentul.imtech.co.id:8096/stream/channelid/121960150?ticket=C419AD90F6540C2349E59601C7F850646CE3256D&profile=pass
+#EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://i.ibb.co/MhcJ8HV/Untitled-3-09.png" group-title="LOKAL IN™", MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-name="Net." tvg-logo="https://i.ibb.co/sgWtzvH/Untitled-3-10.png" group-title="LOKAL AUTO🇮🇩", NET.
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-name="Net." tvg-logo="https://i.ibb.co/sgWtzvH/Untitled-3-10.png" group-title="LOKAL IN™", NET.
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png" group-title="LOKAL AUTO🇮🇩" , RCTI
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://i.ibb.co/wMHrRtF/Untitled-3-12.png" group-title="LOKAL IN™", RCTI
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jLCsvCm/Untitled-3-14.png" group-title="LOKAL AUTO🇮🇩", SCTV HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans7" tvg-logo="https://i.ibb.co/3NfN3fP/Untitled-3-16.png" group-title="LOKAL AUTO🇮🇩", TRANS 7
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
-#EXTINF:-1 tvg-id="Trans TV - [Channel 87].id" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/JkCSJJM/Untitled-3-17.png" group-title="LOKAL AUTO🇮🇩", TRANS TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jLCsvCm/Untitled-3-14.png" group-title="INDONESIA" tvg-id="SCTV" tvg-name="SCTV",SCTV
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/3NfN3fP/Untitled-3-16.png" group-title="LOKAL IN™", Trans 7
+https://arjuna.trans7.co.id/Trans7-L1v3stream/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="Trans TV - [Channel 87].id" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/JkCSJJM/Untitled-3-17.png" group-title="LOKAL IN™", TRANS TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-name="TV One" tvg-logo="https://i.ibb.co/wB9gW76/Untitled-3-18.png" group-title="LOKAL AUTO🇮🇩", TV ONE
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-name="TV One" tvg-logo="https://i.ibb.co/wB9gW76/Untitled-3-18.png" group-title="LOKAL IN™", TV ONE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
-#EXTINF:0 group-title="LOKAL AUTO🇮🇩" tvg-logo="https://i.ibb.co/Lr9TGxw/Untitled-3-13.png", RTV
+#EXTINF:0 group-title="INDONESIA" tvg-logo="https://i.ibb.co/Lr9TGxw/Untitled-3-13.png", RTV
 http://210.210.155.37/uq2663/h/h10/index.m3u8
-#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-name="Kompas TV" tvg-logo="https://i.ibb.co/J7RKdrT/Untitled-3-07.png" group-title="LOKAL AUTO🇮🇩", KOMPAS TV
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-name="Kompas TV" tvg-logo="https://i.ibb.co/J7RKdrT/Untitled-3-07.png" group-title="LOKAL IN™", KOMPAS TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
-#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-name="Metro TV" tvg-logo="https://i.ibb.co/Wp4fsp4/Untitled-3-08.png" group-title="LOKAL AUTO🇮🇩", METRO TV
+#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-name="Metro TV" tvg-logo="https://i.ibb.co/Wp4fsp4/Untitled-3-08.png" group-title="LOKAL IN™", METRO TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
-#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-name="iNews" tvg-logo="https://i.ibb.co/mSvHNZr/Untitled-3-06.png" group-title="LOKAL AUTO🇮🇩", INEWS
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveaneviadev.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-**https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-#EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-name="TVRI" tvg-logo="https://i.ibb.co/vZL9NLy/Untitled-3-19.png" group-title="LOKAL AUTO🇮🇩", TVRI NASIONAL
+#EXTINF:-1 group-title="LOKAL IN™" tvg-logo="https://i.ibb.co/mSvHNZr/Untitled-3-06.png",INEWS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://1a-inews.rctiplus.id/inews-sdi.mpd
+#EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-name="TVRI" tvg-logo="https://i.ibb.co/vZL9NLy/Untitled-3-19.png" group-title="LOKAL IN™", TVRI NASIONAL
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
-#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-name="BTV" tvg-logo="https://i.ibb.co/3WD0DcZ/Untitled-3-02.png" group-title="LOKAL AUTO🇮🇩", BTV
+#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-name="BTV" tvg-logo="https://i.ibb.co/3WD0DcZ/Untitled-3-02.png" group-title="LOKAL IN™", BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-#EXTINF:-1 tvg-id="CNBC - [Channel 337].id" tvg-name="CNBC Indonesia" tvg-logo="https://i.ibb.co/VQ9SbjM/Untitled-3-03.png" group-title="LOKAL AUTO🇮🇩", CNBC INDONESIA
+#EXTINF:-1 tvg-id="CNBC - [Channel 337].id" tvg-name="CNBC Indonesia" tvg-logo="https://i.ibb.co/VQ9SbjM/Untitled-3-03.png" group-title="INDONESIA", CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Nusantara TV" tvg-name="Nusantara TV" tvg-logo="https://i.ibb.co/pR5Ky9d/Untitled-3-11.png" group-title="LOKAL AUTO🇮🇩", NUSANTARA TV
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-name="Nusantara TV" tvg-logo="https://i.ibb.co/pR5Ky9d/Untitled-3-11.png" group-title="LOKAL IN™", NUSANTARA TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Sindo News TV HD - [Channel 434].id" tvg-name="SINDONEWS" tvg-logo="https://i.ibb.co/z64qwtd/Untitled-3-15.png" group-title="LOKAL AUTO🇮🇩", SINDONEWS TV
+#EXTINF:-1 tvg-id="Sindo News TV HD - [Channel 434].id" tvg-name="SINDONEWS" tvg-logo="https://i.ibb.co/z64qwtd/Untitled-3-15.png" group-title="LOKAL IN™", SINDONEWS TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/MSGB47h/Untitled-3-20.png" group-title="LOKAL AUTO🇮🇩", UGTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/MSGB47h/Untitled-3-20.png" group-title="LOKAL IN™", UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/Logo-CNN-Indonesia-Peta-Indonesia.jpg?v=8.3.1" group-title="LOKAL AUTO🇮🇩", CNN INDONESIA
+#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/Logo-CNN-Indonesia-Peta-Indonesia.jpg?v=8.3.1" group-title="LOKAL IN™", CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m84fYVd/toni.jpg" group-title="LOKAL AUTO🇮🇩",MOJI (Indi)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMvYXdM/MOJI-01.png" group-title="LOKAL IN™", MOJI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
-
-++++++++++++++++++++++++++++++INDIHOME+++++++++++++++++++++++++++++
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/Hh8KNGo558dzdT-tqWrLonOsmAM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-tv-stream-b6cca5.jpg" group-title="Indihome" , ANTV
-http://iptvid.my.id/avc/Toni/Tonisr123/antv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRvo_o-Z1ul1PI8phBlHtJes7Q1JQboL5EVNT7SHG-7w&s" group-title="Indihome" , CNB
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG_Fi8_PkBciwL-IQIBR9jpTd-5jXjff7RLQ25mQkvjABNLEzJc9EhDBY&s=10" group-title="Indihome" , CNN
-http://iptvid.my.id/avc/Toni/Tonisr123/cnnindonesia.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQheoorCoZDi0ZJPzfuP2VV62pXTE1eHy8sks_IhX9vbw&s" group-title="Indihome" , DAAI TV
-http://iptvid.my.id/avc/Toni/Tonisr123/daaitv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCyg2aFmq1JpvyakStc4R8Ukf9kMy4fi6H3g&usqp=CAU" group-title="Indihome" , INDOSIAR
-http://iptvid.my.id/avc/Toni/Tonisr123/indosiar.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMMbOuE83KBzu1QyJFNLijaFC-wYaot1ywF8BW7s4V3g&s" group-title="Indihome" , INEWS
-http://iptvid.my.id/avc/Toni/Tonisr123/inews.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwes30dor5r0AovpJsGowAMtpDmwae6wQGMw&usqp=CAU" group-title="Indihome" , INSERT
-http://iptvid.my.id/avc/Toni/Tonisr123/insert.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/wvdRhdMK03uRg3TYxy2vUvQZpOs=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-tv-stream-a705ed.jpg" group-title="Indihome" , JAK TV
-http://iptvid.my.id/avc/Toni/Tonisr123/jaktv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/0sX5Ulk6hDFP9KEG2Hefwy8Wvvg=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg" group-title="Indihome" , JTV
-http://iptvid.my.id/avc/Toni/Tonisr123/jtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg" group-title="Indihome" , KOMPAS TV
-http://iptvid.my.id/avc/Toni/Tonisr123/kompastv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHkqI6209G-JqB-ZEA98haWnx66ozaZBkPIw&usqp=CAU" group-title="Indihome" , KPLUS
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHkqI6209G-JqB-ZEA98haWnx66ozaZBkPIw&usqp=CAU
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/CN732k1UkV-MWtonPwmlMzDE-gY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-461c64.jpg" group-title="Indihome" , METRO TV
-http://iptvid.my.id/avc/Toni/Tonisr123/metrotv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRvo_o-Z1ul1PI8phBlHtJes7Q1JQboL5EVNT7SHG-7w&s" group-title="Indihome" , CNB 
-http://iptvid.my.id/avc/Toni/Tonisr123/cnbcindonesia.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRK3-l2CVlMnsp-7qwJfirbwsxRu_2eKA4IbcbQxiliFYbcQp5EmLZxi0&s=10" group-title="Indihome" , SINDO NEW
-http://iptvid.my.id/avc/Toni/Tonisr123/mncnews.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.transtv.co.id/livetv/anytv/NET_TV_live_streaming_tv.jpg" group-title="Indihome" , NET TV
-http://iptvid.my.id/avc/Toni/Tonisr123/net.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn9l938HYqA_QMPW3zPlHStC0swxREPZPn2q0yn5S30g&s" group-title="Indihome" , NUSANTARA
-http://iptvid.my.id/avc/Toni/Tonisr123/nusantaratv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCnyji712zbcXDbipmZQm_Jj7B9qonCXcHpTxrrbYKjpoqn-T7Ko54UWSm&s=10" group-title="Indihome" , MOJI TV
-http://iptvid.my.id/avc/Toni/Tonisr123/ochannel.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Rodja_TV.png/revision/latest?cb=20180922034039" group-title="Indihome" , ROJA TV
-http://iptvid.my.id/avc/Toni/Tonisr123/rodjatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/1TMD8nonXrRVhDaBUo7VQgJGkQc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="Indihome" , RTV
-http://iptvid.my.id/avc/Toni/Tonisr123/rtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.transtv.co.id/livetv/anytv/SCTV_live_streaming_tv.jpg" group-title="Indihome" , SCTV
-http://iptvid.my.id/avc/Toni/Tonisr123/sctv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzmHsrw9V7zfc-TcgBdzUe6xvownKRikBzXFCp5eLM8aS05KX9UP7XU-Q&s=10" group-title="Indihome" , TRANS 7
-http://iptvid.my.id/avc/Toni/Tonisr123/trans7.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdxMDOZQHefJe_PLlzckuPGgssSfzwwn2kdauQVKlUBqUZL0c5lfCZQIo4&s=10" group-title="Indihome" , TRNAS TV
-http://iptvid.my.id/avc/Toni/Tonisr123/transtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.transtv.co.id/livetv/anytv/TVONE_live_streaming_tv.jpg" group-title="Indihome" , TV ONE
-http://iptvid.my.id/avc/Toni/Tonisr123/tvone.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyGoVZNQXVFDhPd3ssvnfkJNs_74iHyW88EPq_kAgNgOgDbYe4F6tnHYU&s=10" group-title="Indihome" , TVRI
-http://iptvid.my.id/avc/Toni/Tonisr123/tvri.m3u8
 
 ++++++++++++++++++++++++++++++++++++++++++++++KIDS+++++++++++++++++++++++++++++++++++++++++++
 
